@@ -12,9 +12,9 @@ The Metropolitan Museum of Art provides select datasets of information on more t
 
 ## Results:
 **It is illustrated from the Bar charts, #1 Pie Chart to determine the ratio of each department type, #2 Histogram to determine the most accession year had a high accession**
-[<img width="700" height="600" src="b1.jpg">](C:\Users\LENOVO\Documents\GitHub\Munging_Data\b1)
+[<img width="700" height="600" src="b1.jpg">](C:\Users\LENOVO\Documents\GitHub\Munging_Data\b1b1.png)
 
-[<img width="700" height="600" src="b2.jpg">](C:\Users\LENOVO\Documents\GitHub\Munging_Data\b2)
+[<img width="700" height="600" src="b2.jpg">](C:\Users\LENOVO\Documents\GitHub\Munging_Data\b2.png)
 
 
 ## Ptoject Tools and functions:
